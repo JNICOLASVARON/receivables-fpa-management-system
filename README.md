@@ -42,14 +42,6 @@ Monthly and quarterly financial reporting, forecasting, variance analysis, profi
 - Dashboarding
 - Process Automation
 
-## Case Study
 
-[View the full case study](./Receivables_FP&A_Case_Study.pdf)
-
-## Workbook Preview
-
-[View the workbook preview](./Receivables_FP&A_Workbook_Preview.pdf)
-
-## Note
 
 The underlying macro-enabled workbook is not publicly distributed. The repository contains documentation and visual previews of the completed model.
